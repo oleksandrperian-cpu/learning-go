@@ -11,4 +11,3 @@ fn main() {
 
     println!("Scanning {} on port {}", my_scan.ip, my_scan.port);
 }
-s
